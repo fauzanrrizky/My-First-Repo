@@ -1,7 +1,7 @@
-Nama    : Fauzan Rizky
+Nama    : Fauzan Rizky Ramadhan
 
 NPM     : 2106654315
 
-Kelas   : Z
+Kelas   : PBP - E
 
 Hobi    : Tidur
